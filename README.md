@@ -1,0 +1,2 @@
+# MasterMind_Yilmaz_Spasic_Moongamackal_Aebersold
+Git Repository für das MasterMind Projekt der Gruppe Yilmaz_Spasic_Moongamackal_Aebersold
