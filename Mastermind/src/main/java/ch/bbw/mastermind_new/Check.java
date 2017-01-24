@@ -1,7 +1,7 @@
 package ch.bbw.mastermind_new;
 
 public class Check {
-	
+	//
 	public void checkRow(int[] numberRow, int[] userNumberRow) {
 		int correctPositions = 0;
 		int correctNumbers = 0;
